@@ -1,5 +1,7 @@
 # Foody-Zone Web App
 
+![Foody Zone Screenshot](./food_zone.jpeg)
+
 Built a Food Listing App that fetches and displays food items from a third-party REST API, Focused on data fetching, dynamic UI updates, and user interaction.
 
 ## Built With
